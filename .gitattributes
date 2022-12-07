@@ -1,0 +1,2 @@
+Assign_2/Data/*.csv filter=lfs diff=lfs merge=lfs -text
+Assign_3/Data/*.zip filter=lfs diff=lfs merge=lfs -text
